@@ -1,0 +1,12 @@
+{
+  "export_job_id": "73a961f7-13bd-4110-ada1-cb895c4e1807",
+  "id_short": 257504,
+  "published_at": "2026-04-13T08:00:04Z",
+  "repo_name": "all-restaurants-in-greenville-north-carolina-us-sample-257504",
+  "sample_asset_name": "beamstation_257504_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/257504/beamstation_257504_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 32,
+  "sample_sha256": "6287726933f554de677cb93c3600f6adc0a443b35b08939c98311f3e245d632f",
+  "sample_size_bytes": 128251,
+  "total_records": 329
+}
