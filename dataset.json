@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Greenville, North Carolina. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Greenville, North Carolina, US",
+  "export_job_id": "73a961f7-13bd-4110-ada1-cb895c4e1807",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 257504,
+  "location_name": "Greenville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-greenville-north-carolina-us-sample-257504",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/257504/beamstation_257504_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 9.73,
+  "sample_records": 32,
+  "sample_sha256": "6287726933f554de677cb93c3600f6adc0a443b35b08939c98311f3e245d632f",
+  "sample_size_bytes": 128251,
+  "total_records": 329,
+  "updated_at": "2026-04-09T12:51:38.051462+00:00"
+}
