@@ -9,9 +9,9 @@
 | Dataset ID | `257504` |
 | Location | Greenville |
 | Category | Restaurants |
-| Full dataset size | 329 records |
-| Free sample size | 32 records (9.73%) |
-| Last export | 2026-04-09T12:51:38.051462+00:00 |
+| Full dataset size | 325 records |
+| Free sample size | 32 records (9.85%) |
+| Last export | 2026-04-16T12:52:58.774550+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greenville-north-carolina-us-sample-257504/releases/download/sample-latest/beamstation_257504_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
