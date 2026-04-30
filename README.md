@@ -1,6 +1,6 @@
 # All Restaurants in Greenville, North Carolina, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `257504` |
 | Location | Greenville |
 | Category | Restaurants |
-| Full dataset size | 115 records |
-| Free sample size | 11 records (9.57%) |
-| Last export | 2026-04-23T12:03:49.982721+00:00 |
+| Full dataset size | 441 records |
+| Free sample size | 44 records (9.98%) |
+| Last export | 2026-04-30T12:31:42.013974+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greenville-north-carolina-us-sample-257504/releases/download/sample-latest/beamstation_257504_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
